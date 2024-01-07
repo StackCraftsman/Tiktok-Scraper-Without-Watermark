@@ -1,2 +1,5 @@
 node_modules/*
-*-lock.json
+*-lock.jsonnode_modules/
+.env
+play.sh
+package-lock.json
